@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # Escuela Profesional de Ingeniería de Sistemas
 
 ## Sistema de Generación Automática de Documentos Técnicos  Para la empresa **Tech Solutions**  
