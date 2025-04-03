@@ -1,93 +1,73 @@
-# Escuela Profesional de Ingeniería de Sistemas
+# Plataforma Avanzada para la Generación Automática de Diagramas UML
 
-## Sistema de Generación Automática de Documentos Técnicos  Para la empresa **Tech Solutions**  
+**Empresa:** Tech Solutions  
+**Curso:** Patrones de Software  
+**Docente:** Mag. Patrick Cuadrados  
 
-
-
-### 📚 **Curso:** _Patrones de Software_  
-### 👨‍🏫 **Docente:** _Mag. Patrick Cuadrados_  
-
----
-
-## 👥 **Integrantes:**  
-📌 **Alexis Jeanpierre Martínez Vargas** _(2019063638)_  
-📌 **Juan José David Pérez Vizcarra** _(2019063636)_  
-📌 **Jhon Thomas Ticona Chambi** _(2018062232)_  
+## 📌 Integrantes:
+- **Alexis Jeanpierre Martínez Vargas** (2019063638)
+- **Juan José David Pérez Vizcarra** (2019063636)
+- **Jhon Thomas Ticona Chambi** (2018062232)
 
 ---
 
-# 📌 Definición del Problema  
+## 📖 Descripción del Proyecto
+La **Plataforma Avanzada para la Generación Automática de Diagramas UML** es una herramienta diseñada para facilitar la creación y edición de diagramas UML mediante la automatización, validación en tiempo real y colaboración multiusuario. 
 
-🚨 **Problema:** Empresas, estudiantes y equipos de proyectos enfrentan dificultades en la generación eficiente de documentos técnicos.  
+El sistema permitirá la generación automática de diagramas UML (clases, casos de uso, secuencia, componentes) a partir de código fuente y modelos JSON/YAML, asegurando precisión y eficiencia en la documentación de software.
 
-🔍 **Causas:**  
-- Redacción manual ➝ 🕒 Tiempos largos  
-- Falta de estandarización ➝ ⚠️ Errores  
-- Documentación recurrente ➝ 📄 Procesos ineficientes  
+## 🎯 Objetivo
+Proporcionar una solución eficiente para la generación y edición de diagramas UML de manera automatizada y colaborativa, reduciendo la carga de trabajo manual y mejorando la coherencia de los modelos.
 
-🎯 **Objetivo:**  
-Desarrollar una plataforma que genere documentos técnicos **rápida, precisa y estructuradamente**, utilizando **plantillas predefinidas** e **inteligencia artificial**.  
+## 📌 Alcance del Proyecto
+El sistema será una **aplicación web** desarrollada con **Django** en el backend y **React** en el frontend, con las siguientes características principales:
 
+- 🚀 **Generación automática de diagramas UML** (clases, casos de uso, secuencia, componentes) desde código fuente en múltiples lenguajes y modelos JSON/YAML.
+- ✅ **Validación en tiempo real** para garantizar la coherencia y corrección de los diagramas generados.
+- 🎨 **Edición manual asistida** con herramientas visuales intuitivas.
+- 🔄 **Colaboración en tiempo real**, permitiendo a múltiples usuarios trabajar en un mismo diagrama simultáneamente.
 
----
-# 📝 Descripción del Proyecto  
+## 🛠️ Tecnologías Utilizadas
+- **Django** (Backend)
+- **React** (Frontend)
 
-El **Sistema de Generación Automática de Documentos Técnicos** es una herramienta diseñada para **automatizar la creación de documentos técnicos**, optimizando su **redacción y estructuración**.  
+## 🚀 Instalación y Configuración
+### 🔹 Requisitos Previos
+- Python 3.9+
+- Node.js 16+
 
-Su propósito es **agilizar el proceso de documentación**, garantizando un formato **preciso, organizado y eficiente** para estudiantes, equipos de proyectos y empresas que requieren informes técnicos recurrentes.  
+### 🔹 Instalación del Backend (Django)
+```bash
+# Clonar el repositorio
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
 
+# Crear entorno virtual e instalar dependencias
+python -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
+pip install -r backend/requirements.txt
 
----
-# 🎯 Justificación  
+django manage.py runserver
+```
 
-✅ **Relevancia:**  
-En la actualidad, la documentación técnica es fundamental para empresas, estudiantes y equipos de trabajo. Sin embargo, su elaboración manual genera **retrasos, errores y falta de estandarización**.  
+### 🔹 Instalación del Frontend (React)
+```bash
+cd frontend
+npm install
+npm start
+```
 
-📌 **¿Por qué es necesaria la solución?**  
-- 🕒 **Ahorro de tiempo** en la creación de documentos.  
-- 📄 **Estandarización** en el formato y contenido.  
-- 🤖 **Automatización** con inteligencia artificial.  
-- 🚀 **Mayor eficiencia** en procesos documentales.  
-
-
-
----
-# 🎯 Objetivos del Proyecto  
-
-## 📌 **Objetivo General**  
-Desarrollar un **Sistema de Generación Automática de Documentos Técnicos** que **optimice la creación de documentos**, reduzca errores y **mejore la eficiencia operativa**.  
-
-## 🚀 **Objetivos Específicos**  
-✅ **Automatizar** la generación de documentos técnicos mediante **plantillas predefinidas**.  
-✅ **Integrar herramientas** para la creación automática de **diagramas y gráficos**.  
-✅ **Reducir** el **tiempo de generación** de documentos.  
-✅ **Mejorar** la **calidad y consistencia** de los documentos técnicos.  
-
-
----
-## Costos Totales del Desarrollo del Sistema  
-
-A continuación, se presenta un resumen de todos los costos totales del proyecto final, detallados en la siguiente tabla:  
-
-### Tabla  – Resumen de Costos del Proyecto  
-
-| **Categoría**                   | **Costo (S/.)**  |
-|----------------------------------|-----------------|
-| **Costo Total de Costo General** | S/ 105.00      |
-| **Costo Total del Ambiente**     | S/ 2,790.00    |
-| **Costo Total del Personal**     | S/ 19,650.00   |
-| **Costo Total de los Operativos**| S/ 345.00      |
-| **Costo Final**                  | **S/ 22,890.00** |
+## 👥 Contribución
+Si deseas contribuir, por favor sigue estos pasos:
+1. Haz un fork del repositorio.
+2. Crea una rama con tu nueva funcionalidad: `git checkout -b feature-nueva`.
+3. Sube tus cambios: `git commit -m 'Agregado X'` y `git push origin feature-nueva`.
+4. Abre un **pull request** en GitHub.
 
 
+
+## 📩 Contacto
+Si tienes preguntas o sugerencias, puedes contactarnos a través de GitHub o por correo electrónico. 🎯
 
 ---
-
-# Conclusión
-
-- El **Sistema de Generación Automática de Documentos Técnicos** resolverá un problema crítico en la organización.
-- **Beneficios clave**:
-  - Mejora en la eficiencia.
-  - Reducción de costos.
-  - Aumento de la calidad de los entregables.
 
