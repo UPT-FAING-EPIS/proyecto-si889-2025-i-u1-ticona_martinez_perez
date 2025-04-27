@@ -1,0 +1,54 @@
+Analisis Economico del Proyecto
+
+Costos de Equipamiento (por PC):
+- CPU Intel Core i7: 950 PEN
+- Placa Base ASUS: 450 PEN
+- Fuente de Poder: 150 PEN
+- Memoria RAM 16 GB: 200 PEN
+- SSD 200 GB: 200 PEN
+- Disco Duro 500 GB: 180 PEN
+- Tarjeta de Red: 50 PEN
+- Tarjeta Grafica GTX 1650: 900 PEN
+- Ventiladores: 120 PEN
+- Mouse y Teclado: 100 PEN
+- Monitor ASUS 24": 550 PEN
+- Parlantes: 70 PEN
+- Estabilizador Forza: 180 PEN
+- Gabinete: 200 PEN
+
+Costo total por una PC: 4300 PEN
+Costo total de 3 PCs: 12900 PEN
+
+Otros Equipos:
+- Impresora Multifuncional DCP-T510W: 1000 PEN
+
+Servicios por 3 meses:
+- Internet: 300 PEN
+- Hosting: 90 PEN
+- Oficina: 2400 PEN
+- Papel Bond: 42 PEN
+- Tinta Impresora: 180 PEN
+- Electricidad: 255 PEN
+- Agua: 90 PEN
+Total Servicios: 3357 PEN
+
+Software de Pago por 3 meses:
+- PostgreSQL (Base de Datos): 330.60 PEN
+- Render.com (Frontend Hosting): 216.60 PEN
+- Vercel (Backend Hosting): 228.00 PEN
+Total Software: 775.20 PEN
+
+Costos de Personal por 3 meses:
+- Jefe de Proyecto: 7500 PEN
+- Programador: 4650 PEN
+- DBA: 3900 PEN
+- Tester: 3600 PEN
+Total Personal: 19650 PEN
+
+-------------------------------------------------------------------------------------------------
+COSTO TOTAL DEL PROYECTO: 37682.2 PEN
+-------------------------------------------------------------------------------------------------
+
+Notas:
+- Software Libre utilizado: Python, GitHub/GitBash, Teams (sin costo)
+
