@@ -1,0 +1,8 @@
+# Configuración para ignorar falsos positivos
+exclude:
+  code:
+    - 'venv/**/*'
+    - '**/distlib/**/*'
+    - '**/cryptography/**/*'
+
+version: v1.22.0

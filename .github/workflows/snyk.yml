@@ -1,0 +1,27 @@
+name: Snyk Code Analysis
+
+on:
+  push:
+    branches:
+      - main  # Se activa solo para la rama main
+
+jobs:
+  snyk:
+    name: Snyk Code Analysis
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Snyk
+        uses: snyk/actions/setup@master
+      - name: Run Snyk Scan
+        run: |
+          snyk code test --json > snyk_report.json || true
+          cat snyk_report.json
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        working-directory: proyecto/Backend  # Define el directorio a analizar
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: snyk-code-report
+          path: snyk_report.json
