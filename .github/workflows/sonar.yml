@@ -2,11 +2,7 @@ name: Backend Code Analysis
 
 on:
   push:
-    branches:
-      - feature/sonar-tests  # Solo se activa en esta rama
-  pull_request:
-    branches:
-      - main  # Se activa al hacer PR a main
+    branches: [ main ]  # Solo se activa en main
 
 jobs:
   sonarqube:
@@ -28,4 +24,4 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: https://sonarcloud.io
         with:
-          projectBaseDir: proyecto/Backend  # ¡Analiza solo esta carpeta!
+          projectBaseDir: proyecto/Backend
