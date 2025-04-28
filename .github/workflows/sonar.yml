@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Python  # Solo si tu backend es Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
@@ -28,7 +28,4 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: https://sonarcloud.io
         with:
-          projectBaseDir: proyecto/backend  # ¡Analiza solo esta carpeta!
-          args: >
-            -Dsonar.projectKey=tu_proyecto_backend_key
-            -Dsonar.exclusions=**/venv/**,**/__pycache__/**
+          projectBaseDir: proyecto/Backend  # ¡Analiza solo esta carpeta!
