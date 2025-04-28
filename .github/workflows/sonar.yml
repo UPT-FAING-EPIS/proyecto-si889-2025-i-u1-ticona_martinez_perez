@@ -1,0 +1,31 @@
+name: Backend Code Analysis
+
+on:
+  push:
+    branches:
+      - feature/sonar-tests  # Solo se activa en esta rama
+  pull_request:
+    branches:
+      - main  # Se activa al hacer PR a main
+
+jobs:
+  sonarqube:
+    name: SonarQube Backend Analysis
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: SonarCloud Scan
+        uses: SonarSource/sonarqube-scan-action@master
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_HOST_URL: https://sonarcloud.io
+        with:
+          projectBaseDir: proyecto/Backend  # ¡Analiza solo esta carpeta!
