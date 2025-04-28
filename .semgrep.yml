@@ -1,0 +1,6 @@
+rules:
+  - id: detect-sql-injection
+    languages: [python]
+    pattern: cursor.execute(f"SELECT ... WHERE $VAR = {user_input}")
+    message: Potential SQL injection
+    severity: WARNING
