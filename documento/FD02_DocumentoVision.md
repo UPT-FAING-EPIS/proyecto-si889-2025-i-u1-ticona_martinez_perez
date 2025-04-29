@@ -1,6 +1,6 @@
-﻿![](media/Aspose.Words.5045698c-97b8-4be9-93a3-546de6bef5d8.001.png)
+﻿![](media/Aspose.Words.770dc4af-2b2a-466f-8e23-d0bbebd1cd89.001.png)
 
-![C:\Users\EPIS\Documents\upt.png](media/Aspose.Words.5045698c-97b8-4be9-93a3-546de6bef5d8.002.png)
+![C:\Users\EPIS\Documents\upt.png](media/Aspose.Words.770dc4af-2b2a-466f-8e23-d0bbebd1cd89.002.png)
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 

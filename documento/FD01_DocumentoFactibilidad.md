@@ -1,7 +1,7 @@
-﻿|![](media/logo.png)|||
+﻿|![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.001.png)|||
 | :- | :-: | -: |
 
-![C:\Users\EPIS\Documents\upt.png](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.002.png)
+![C:\Users\EPIS\Documents\upt.png](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.002.png)
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 
@@ -39,7 +39,7 @@ Integrantes:
 
 **Documento de Factibilidad**
 
-**Versión 1.1**
+**Versión 1.2**
 
 ***Presentado Por:***
 
@@ -59,66 +59,67 @@ Integrantes:
 |**Versión**|**Hecha por**|**Revisada por**|**Aprobada por**|**Fecha**|**Motivo**|
 |1\.0|AMV, JTC|AMV, JTC|JTC|18/03/2025|Versión Inicial|
 |1\.1|AMV, JTC|AMV, JTC|JTC|31/03/2025|Versión Modificada|
+|1\.2|AMV, JTC|AMV, JTC|JTC|27/04/2025|Versión Modificada|
 # **Índex**
-[I. Descripción del Proyecto	4](#_toc194418385)
+[I. Descripción del Proyecto	4](#_toc196657208)
 
-[1.1. Nombre del Proyecto	4](#_toc194418386)
+[1.1. Nombre del Proyecto	4](#_toc196657209)
 
-[1.2. Descripción del Proyecto	4](#_toc194418387)
+[1.2. Descripción del Proyecto	4](#_toc196657210)
 
-[1.4. Objetivos	4](#_toc194418388)
+[1.4. Objetivos	5](#_toc196657211)
 
-[a) Objetivo general	4](#_toc194418389)
+[a) Objetivo general	5](#_toc196657212)
 
-[b) Objetivos Específicos	5](#_toc194418390)
+[b) Objetivos Específicos	5](#_toc196657213)
 
-[II. Riesgos	5](#_toc194418391)
+[II. Riesgos	5](#_toc196657214)
 
-[III. Análisis de Situación Actual	7](#_toc194418392)
+[III. Análisis de Situación Actual	7](#_toc196657215)
 
-[3.1. Planteamiento del problema	7](#_toc194418393)
+[3.1. Planteamiento del problema	7](#_toc196657216)
 
-[3.2. Consideraciones del hardware y software	7](#_toc194418394)
+[3.2. Consideraciones del hardware y software	7](#_toc196657217)
 
-[IV. Estudio de Factibilidad	8](#_toc194418395)
+[IV. Estudio de Factibilidad	8](#_toc196657218)
 
-[4.1. Factibilidad Técnica	8](#_toc194418396)
+[4.1. Factibilidad Técnica	8](#_toc196657219)
 
-[4.2. Factibilidad Económica	9](#_toc194418397)
+[4.2. Factibilidad Económica	9](#_toc196657220)
 
-[4.2.1. Costos Generales	9](#_toc194418398)
+[4.2.1. Costos Generales	9](#_toc196657221)
 
-[4.2.2. Costos del ambiente	9](#_toc194418399)
+[4.2.2. Costos del ambiente	9](#_toc196657222)
 
-[4.2.3. Costos de personal	10](#_toc194418400)
+[4.2.3. Costos de personal	10](#_toc196657223)
 
-[4.2.4. Costos operativos durante el desarrollo	10](#_toc194418401)
+[4.2.4. Costos operativos durante el desarrollo	10](#_toc196657224)
 
-[4.2.5. Costos totales del desarrollo del sistema	10](#_toc194418402)
+[4.2.5. Costos totales del desarrollo del sistema	11](#_toc196657225)
 
-[4.3. Factibilidad Operativa	11](#_toc194418403)
+[4.3. Factibilidad Operativa	11](#_toc196657226)
 
-[4.4. Factibilidad Legal	12](#_toc194418404)
+[4.4. Factibilidad Legal	12](#_toc196657227)
 
-[4.5. Factibilidad Social	12](#_toc194418405)
+[4.5. Factibilidad Social	12](#_toc196657228)
 
-[4.6. Factibilidad Ambiental	13](#_toc194418406)
+[4.6. Factibilidad Ambiental	13](#_toc196657229)
 
-[V. Análisis Financiero	13](#_toc194418407)
+[V. Análisis Financiero	14](#_toc196657230)
 
-[5.1. Justificación de la Inversión	14](#_toc194418408)
+[5.1. Justificación de la Inversión	14](#_toc196657231)
 
-[5.1.1. Beneficios del Proyecto	14](#_toc194418409)
+[5.1.1. Beneficios del Proyecto	14](#_toc196657232)
 
-[5.1.2. Criterios de Inversión	14](#_toc194418410)
+[5.1.2. Criterios de Inversión	15](#_toc196657233)
 
-[VI. Conclusiones	18](#_toc194418411)
+[VI. Conclusiones	18](#_toc196657234)
 
 
-# <a name="_toc194418385"></a>**I. Descripción del Proyecto**	
-## <a name="_toc194418386"></a>**1.1. Nombre del Proyecto**
+# <a name="_toc196657208"></a>**I. Descripción del Proyecto**	
+## <a name="_toc196657209"></a>**1.1. Nombre del Proyecto**
 Proyecto Sistema "Plataforma Avanzada para la Generación Automática de Diagramas UML para la empresa Tech Soluciones"
-## <a name="_toc194418387"></a>**1.2. Descripción del Proyecto**	
+## <a name="_toc196657210"></a>**1.2. Descripción del Proyecto**	
 El proyecto "Plataforma Avanzada para la Generación Automática de Diagramas UML para la empresa Tech Soluciones" es una iniciativa orientada a facilitar la creación y validación de diagramas UML de manera automatizada. Su principal objetivo es proporcionar a los estudiantes y equipos de desarrollo una herramienta eficiente que permita generar, visualizar y corregir diagramas UML con base en distintas fuentes de entrada, mejorando la comprensión y documentación del diseño de software.
 
 Este sistema, desarrollado en Python y C#, ofrecerá funcionalidades clave como:
@@ -131,17 +132,17 @@ Este sistema, desarrollado en Python y C#, ofrecerá funcionalidades clave como:
 - **Extensibilidad mediante Plugins**: Los usuarios podrán agregar soporte para nuevos lenguajes de programación sin modificar el núcleo de la aplicación.
 
 A diferencia de otras herramientas UML tradicionales, esta plataforma se destaca por su capacidad de integración con código fuente y su sistema de validación en tiempo real, lo que permite detectar errores de sintaxis y relaciones inválidas en los diagramas. Su enfoque flexible y colaborativo la convierte en una solución ideal para estudiantes y equipos de desarrollo que buscan mejorar la documentación de sus proyectos de software.
-## <a name="_toc194418388"></a>**1.4. Objetivos**	
-### <a name="_toc194418389"></a>**a) Objetivo general**
+## <a name="_toc196657211"></a>**1.4. Objetivos**	
+### <a name="_toc196657212"></a>**a) Objetivo general**
 El objetivo general de este proyecto es desarrollar e implementar una plataforma avanzada que facilite la generación automática y validación de diagramas UML, mejorando la comprensión y documentación del diseño de software en entornos académicos y profesionales. Esta herramienta optimizará la creación de diagramas a partir de código fuente, modelos estructurados y ediciones manuales con validación en tiempo real.
-### <a name="_toc194418390"></a>**b) Objetivos Específicos**	
+### <a name="_toc196657213"></a>**b) Objetivos Específicos**	
 - Desarrollar un sistema capaz de analizar código fuente y convertirlo en diagramas UML basándose en reglas predefinidas.
 - Implementar un editor gráfico asistido que permita a los usuarios construir diagramas UML con validación en tiempo real.
 - Crear un módulo de colaboración en tiempo real para la edición compartida de diagramas UML entre múltiples usuarios.
 - Integrar la generación de diagramas UML a partir del historial de cambios en repositorios Git.
 - Diseñar un sistema extensible mediante plugins, permitiendo la incorporación de nuevos lenguajes y reglas de análisis.
 - Garantizar una interfaz intuitiva y adaptable para su uso en distintos dispositivos y navegadores.
-# <a name="_toc194418391"></a>**II. Riesgos**
+# <a name="_toc196657214"></a>**II. Riesgos**
 
 En cualquier proyecto de desarrollo de software, es fundamental identificar y gestionar los riesgos potenciales que podrían afectar su éxito. Estos riesgos pueden surgir de factores técnicos, operativos, ambientales o externos, y su adecuada gestión es clave para garantizar que el proyecto se complete dentro de los plazos y presupuestos establecidos.
 
@@ -158,8 +159,8 @@ En cualquier proyecto de desarrollo de software, es fundamental identificar y ge
 |9|Mantenimiento y actualizaciones|El sistema podría volverse obsoleto o difícil de mantener si no se planifican adecuadamente las actualizaciones periódicas y el soporte técnico continuo.|
 |10|Cumplimiento de plazos y presupuesto|El proyecto podría exceder los plazos y el presupuesto si no se gestiona adecuadamente, lo que resultaría en sobrecostos y retrasos en la entrega del producto final.|
 
-# <a name="_toc194418392"></a>**III. Análisis de Situación Actual**	
-## <a name="_toc194418393"></a>**3.1. Planteamiento del problema**
+# <a name="_toc196657215"></a>**III. Análisis de Situación Actual**	
+## <a name="_toc196657216"></a>**3.1. Planteamiento del problema**
 En Tech Soluciones, una empresa especializada en desarrollo de software, la creación y gestión de diagramas UML es un proceso manual y poco eficiente, lo que genera dificultades en la documentación y comunicación de arquitecturas y diseños de software. Actualmente, los desarrolladores deben utilizar múltiples herramientas para la generación de diagramas UML, lo que no solo incrementa la carga de trabajo, sino que también ocasiona inconsistencias en los modelos y errores en la representación de estructuras de software. La falta de una plataforma integrada que facilite la generación automática de diagramas UML afecta la eficiencia del equipo y la calidad de la documentación técnica.
 
 **Problemas específicos identificados:** 
@@ -169,7 +170,7 @@ En Tech Soluciones, una empresa especializada en desarrollo de software, la crea
 - La falta de integración con código fuente obliga a los desarrolladores a interpretar manualmente las estructuras y relaciones, aumentando el riesgo de errores en la documentación UML.
 - La edición y revisión de diagramas UML se realiza de manera individual o a través del intercambio de archivos, lo que dificulta la colaboración en tiempo real y la actualización de modelos de software.
 - La ausencia de una herramienta centralizada que permita la validación en tiempo real de los diagramas UML ocasiona problemas en la detección temprana de errores estructurales en el diseño del software.
-## <a name="_toc194418394"></a>**3.2. Consideraciones del hardware y software**
+## <a name="_toc196657217"></a>**3.2. Consideraciones del hardware y software**
 
 |**HARDWARE Y SOFTWARE**|**ESPECIFICACIONES**|**DESCRIPCION**|
 | :-: | :-: | :-: |
@@ -199,28 +200,30 @@ En Tech Soluciones, una empresa especializada en desarrollo de software, la crea
 *Fuente : Elaboración propia de la tabla*
 
 *Tabla 1 – Elaboración propia de tabla de el hardware y software propuestos para el proyecto incluyen un sistema operativo Windows 10 Professional, una conexión de red a través de Claro y Movistar con una velocidad de 80 Mbps, el uso del controlador de versiones GitHub, la herramienta Rational Rose para diagramas UML, y el lenguaje de programación C#.*
-# <a name="_toc194418395"></a>**IV. Estudio de Factibilidad**	
-## <a name="_toc194418396"></a>**4.1. Factibilidad Técnica**	
+# <a name="_toc196657218"></a>**IV. Estudio de Factibilidad**	
+## <a name="_toc196657219"></a>**4.1. Factibilidad Técnica**	
 <a name="_hlk177201563"></a>Los siguientes programas nos permitirán la creación y desarrollo del proyecto:
 
 <table><tr><th colspan="3"><b>RECURSOS TECNICOS PARA EL DESARROLLO DEL PROYECTO</b></th></tr>
 <tr><td colspan="1"><b>Tipo de Recurso</b></td><td colspan="1"><b>Nombre del recurso</b></td><td colspan="1"><b>Descripción</b></td></tr>
 <tr><td colspan="1" rowspan="5"><p>Hardware</p><p></p></td><td colspan="1" rowspan="4"><p>PC</p><p>(Personal Computer)</p><p></p></td><td colspan="1">Escritorio o Portátil</td></tr>
-<tr><td colspan="1">Intel Core i5 - 1.8GHz</td></tr>
-<tr><td colspan="1">8 GB de RAM recomendados (2 GB mínimo).</td></tr>
-<tr><td colspan="1">4 GB de espacio en disco duro (2 GB mínimo).</td></tr>
+<tr><td colspan="1">Intel Core i7 - 1.8GHz</td></tr>
+<tr><td colspan="1">16 GB de RAM recomendados (8 GB mínimo).</td></tr>
+<tr><td colspan="1">500 GB de espacio en disco duro (200 GB mínimo).</td></tr>
 <tr><td colspan="1">Impresora</td><td colspan="1">Multifuncional</td></tr>
 <tr><td colspan="1" rowspan="4">Software</td><td colspan="1">Windows 10 (64 bits)</td><td colspan="1">Sistema operativo</td></tr>
-<tr><td colspan="1">` `Visual Studio 2022</td><td colspan="1">Herramienta para el desarrollo del sistema web</td></tr>
+<tr><td colspan="1">` `Render</td><td colspan="1">Herramienta para el desarrollo del sistema web</td></tr>
 <tr><td colspan="1">Teams (Microsoft Office 365)</td><td colspan="1">Herramienta para el desarrollo de documentos</td></tr>
 <tr><td colspan="1">SQL Azure</td><td colspan="1">Herramienta para el desarrollo de la BD en la nube</td></tr>
+<tr><td colspan="1"></td><td colspan="1">posgreSql</td><td colspan="1">Herramienta para el desarrollo de la BD</td></tr>
+<tr><td colspan="1"></td><td colspan="1">React</td><td colspan="1">Herramienta para el desarrollo del ForntEnd</td></tr>
 </table>
 
 *Fuente : Elaboración propia de la tabla*
 
-*Tabla 2 –Elaboración propia de Los recursos técnicos para el desarrollo del proyecto incluyen hardware como computadoras de escritorio o portátiles con procesador Intel Core i5, 8 GB de RAM recomendados, 4 GB de espacio en disco duro y una impresora multifuncional. En cuanto al software, se utilizará Windows 10 (64 bits) como sistema operativo, Visual Studio 2022 como herramienta de desarrollo del sistema web, Microsoft Teams para el desarrollo de documentos y SQL Azure para el desarrollo de la base de datos en la nube.*
-## <a name="_toc194418397"></a>**4.2. Factibilidad Económica**	
-### <a name="_toc194418398"></a>**4.2.1. Costos Generales**	
+*Tabla 2 –Elaboración propia de Los recursos técnicos para el desarrollo del proyecto incluyen hardware como computadoras de escritorio o portátiles con procesador Intel Core i7, 16 GB de RAM recomendados, 500 GB de espacio en disco duro y una impresora multifuncional. En cuanto al software, se utilizará Windows 10 (64 bits) como sistema operativo, Render como herramienta de desarrollo del sistema web, Reacta como herramienta de desarrollo frontend, Microsoft Teams para el desarrollo de documentos, SQL Azure para el desarrollo de la base de datos en la nube como prueba y posgueSql como herramienta de desarrollo de BD.*
+## <a name="_toc196657220"></a>**4.2. Factibilidad Económica**	
+### <a name="_toc196657221"></a>**4.2.1. Costos Generales**	
 *Tabla de Materiales de Escritorio* 
 
 <table><tr><th colspan="1" rowspan="2"><b>Materiales de escritorio</b> </th><th colspan="3"><b>Tiempo/Coste</b> </th></tr>
@@ -235,15 +238,15 @@ En Tech Soluciones, una empresa especializada en desarrollo de software, la crea
 
 *Tabla 3 – Costos de material de escritorio para equipo de trabajo para el proyecto , “Costo general será una total de **S/105.00**”*
 
-### <a name="_toc150164127"></a><a name="_toc194418399"></a>**4.2.2. Costos del ambiente**	
+### <a name="_toc150164127"></a><a name="_toc196657222"></a>**4.2.2. Costos del ambiente**	
 
 *Tabla de ambiente laboral* 
 
 <table><tr><th colspan="1" rowspan="2"><b>Costos Ambiente</b></th><th colspan="4"><b>Tiempo/Costo</b> </th></tr>
 <tr><td colspan="1"><b>Mes 1</b> </td><td colspan="2"><b>Mes 2</b> </td><td colspan="1" valign="top"><b>Mes 3</b> </td></tr>
-<tr><td colspan="1">Servicio de Internet </td><td colspan="1">S/ 80.00</td><td colspan="2">S/ 80.00</td><td colspan="1">S/ 80.00</td></tr>
+<tr><td colspan="1">Servicio de Internet </td><td colspan="1">S/ 100.00</td><td colspan="2">S/ 100.00</td><td colspan="1">S/ 100.00</td></tr>
 <tr><td colspan="1">Oficina</td><td colspan="1">S/ 800.00</td><td colspan="2">S/ 800.00</td><td colspan="1">S/ 800.00</td></tr>
-<tr><td colspan="1">Hosting  (Somee)</td><td colspan="1">S/ 50.00</td><td colspan="2">S/ 50.00</td><td colspan="1">S/ 50.00</td></tr>
+<tr><td colspan="1">Hosting  (Somee)</td><td colspan="1">S/ 30.00</td><td colspan="2">S/ 30.00</td><td colspan="1">S/ 30.00</td></tr>
 <tr><td colspan="1"><b>Sub Total</b> </td><td colspan="2">S/ 930.00</td><td colspan="1">S/ 930.00 </td><td colspan="1">S/ 930.00</td></tr>
 <tr><td colspan="4"><b>TOTAL</b></td><td colspan="1">S/2.790.00</td></tr>
 </table>
@@ -252,7 +255,7 @@ En Tech Soluciones, una empresa especializada en desarrollo de software, la crea
 
 *Tabla 4 – Costos de ambiente laboral durante el desarrollo para equipo de trabajo para el proyecto , “Costo total del ambiente es de **s/ 2,790.00** ”*
 
-### <a name="_toc194418400"></a>**4.2.3. Costos de personal**
+### <a name="_toc196657223"></a>**4.2.3. Costos de personal**
 
 *Tabla de costos del personal laboral* 
 
@@ -268,7 +271,7 @@ En Tech Soluciones, una empresa especializada en desarrollo de software, la crea
 *Fuente : Elaboración propia de la tabla*
 
 *Tabla 5 –Costos de costos del personal laboral durante el desarrollo para equipo de trabajo para el proyecto "Costo total del ambiente es de **s/ 19,650.00”***
-### <a name="_toc194418401"></a>**4.2.4. Costos operativos durante el desarrollo**
+### <a name="_toc196657224"></a>**4.2.4. Costos operativos durante el desarrollo**
 
 *Tabla de servicios operativos*
 
@@ -284,7 +287,7 @@ En Tech Soluciones, una empresa especializada en desarrollo de software, la crea
 
 *Tabla 6 – Costos de operativos durante el desarrollo para equipo de trabajo para el proyecto , “Costo operativos total es de **S/345.00** ”*
 
-### <a name="_toc194418402"></a>**4.2.5. Costos totales del desarrollo del sistema**	
+### <a name="_toc196657225"></a>**4.2.5. Costos totales del desarrollo del sistema**	
 A continuación, un resumen de todos los costos totales del proyecto final. 
 
 *Tabla resumen de total de costos*
@@ -299,7 +302,7 @@ A continuación, un resumen de todos los costos totales del proyecto final. 
 *Fuente : Elaboración propia de la tabla*
 
 *Tabla 7 – Tabla resumen de todos los costos vistos en la tablas ,Costo total de costo general , Costo total de Ambiente , Costo total de personal ,Costo total de los servicios operativos, anteriormente “**Costo final s/22.890.00**” por los 3 meses de desarrollo del proyecto*
-## <a name="_toc194418403"></a>**4.3. Factibilidad Operativa**
+## <a name="_toc196657226"></a>**4.3. Factibilidad Operativa**
 <a name="_hlk177201850"></a>La factibilidad operativa de este proyecto se refiere a su capacidad para funcionar de manera eficiente y sostenible una vez que esté en funcionamiento. Esto implica:
 
 **Recursos Humanos y Capacitación:**
@@ -313,12 +316,12 @@ Aunque este proyecto no requiere instalaciones físicas específicas, es esencia
 **Cumplimiento de Normativas y Licencias:**
 
 Es crucial cumplir con las normativas legales y regulatorias aplicables, especialmente en términos de protección de datos y seguridad cibernética. Además, se debe garantizar que el sistema cumpla con cualquier requerimiento específico establecido por las autoridades locales y regionales en cuanto a la gestión de inventarios y la elaboración de informes técnicos. Esto incluye la obtención de licencias necesarias y la adhesión a las mejores prácticas de la industria para asegurar la confiabilidad y credibilidad del sistema.
-## <a name="_toc194418404"></a>**4.4. Factibilidad Legal**
+## <a name="_toc196657227"></a>**4.4. Factibilidad Legal**
 Listamos algunas leyes y regulaciones relevantes que podrían afectar la factibilidad legal del proyecto:
 
 - **Ley N° 29733, Ley de Protección de Datos Personales:** Esta ley es crucial, dado que el proyecto manejará datos sensibles de los equipos tecnológicos y posiblemente de los usuarios. Es necesario garantizar el cumplimiento de esta ley para proteger la privacidad de los datos y evitar posibles sanciones por el manejo inadecuado de la información.
 - **Ley N° 30096, Ley Anti-Phishing:** Aunque esta ley no está directamente relacionada con la gestión de inventarios, es importante considerarla porque el sistema web podría ser vulnerable a intentos de suplantación de identidad con fines fraudulentos. Implementar medidas de seguridad adecuadas ayudará a prevenir tales ataques y proteger la información crítica del sistema.	
-## <a name="_toc194418405"></a>**4.5. Factibilidad Social**	
+## <a name="_toc196657228"></a>**4.5. Factibilidad Social**	
 <a name="_hlk177201771"></a>El proyecto "Sistema de Generación Automática de Documentos Técnicos para la empresa Tech Solutions" tiene el potencial de generar un impacto social significativo dentro de la organización donde se implemente. Al optimizar los procesos de generación de documentos, el sistema no solo mejorará la eficiencia operativa, sino que también beneficiará a los empleados y, en última instancia, a la comunidad. 
 
 - **Optimización de Procesos y Ahorro de Tiempo:**
@@ -329,19 +332,19 @@ Listamos algunas leyes y regulaciones relevantes que podrían afectar la factibi
   La implementación del sistema implicará la capacitación del personal en el uso de herramientas tecnológicas avanzadas, lo que no solo mejorará sus habilidades técnicas, sino que también aumentará su satisfacción laboral y su sentido de pertenencia al ver cómo su trabajo contribuye al éxito del proyecto.
 - **Fomento de la Colaboración y el Trabajo en Equipo:**
   El sistema facilitará la colaboración en tiempo real entre los miembros del equipo, permitiendo una edición y revisión más eficiente de los documentos técnicos. Esto fortalecerá el trabajo en equipo y mejorará la comunicación interna.
-## <a name="_toc194418406"></a>**4.6. Factibilidad Ambiental**	
+## <a name="_toc196657229"></a>**4.6. Factibilidad Ambiental**	
 <a name="_hlk177201719"></a>El proyecto "Plataforma Avanzada para la Generación Automática de Diagramas UML para la empresa Tech Soluciones" tiene un impacto ambiental mínimo, ya que su implementación y operación no implican procesos que generen emisiones contaminantes o consuman recursos naturales de manera significativa:
 
 - **Ecoeficiencia en el Consumo de Energía:** Se prevé que el proyecto sea ecoeficiente, utilizando tecnologías y prácticas que minimicen el consumo de energía y reduzcan al mínimo la generación de residuos electrónicos. Esto incluye el uso de servidores energéticamente eficientes y la minimización del uso de papel a través de la digitalización de procesos.
 - **Cumplimiento de Políticas Ambientales:** El desarrollo del proyecto se llevará a cabo en cumplimiento con las políticas y regulaciones ambientales locales y nacionales, asegurando que todas las actividades relacionadas con su implementación y operación se realicen de manera responsable y sostenible.
 - **Promoción de la Conciencia Ambiental:** Aunque el impacto directo del proyecto en el medio ambiente es bajo, este puede servir como un ejemplo de cómo las tecnologías de la información pueden contribuir a la sostenibilidad. Al automatizar procesos y reducir el uso de recursos físicos, el sistema puede ayudar a promover una cultura organizacional más consciente del medio ambiente.
-# <a name="_toc194418407"></a>**V. Análisis Financiero**	
+# <a name="_toc196657230"></a>**V. Análisis Financiero**	
 <a name="_hlk177201914"></a>El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
 
 Para demostrar que este proyecto es rentable, utilizamos una TEA (Tasa de interés) = 15% y el VAN, B/C y TIR.
-## <a name="_toc194418408"></a>**5.1. Justificación de la Inversión**
+## <a name="_toc196657231"></a>**5.1. Justificación de la Inversión**
 La justificación de la inversión en el proyecto "Plataforma Avanzada para la Generación Automática de Diagramas UML para la empresa Tech Soluciones" se fundamenta en los múltiples beneficios que proporcionará a la empresa, mejorando la eficiencia en la documentación de software y optimizando la colaboración en tiempo real.
-### <a name="_toc194418409"></a>**5.1.1. Beneficios del Proyecto**	
+### <a name="_toc196657232"></a>**5.1.1. Beneficios del Proyecto**	
 **Beneficios Tangibles:**
 
 - **Reducción de Costos Operativos:** La automatización de la generación de diagramas UML disminuirá el tiempo y los recursos necesarios para documentar software, reduciendo significativamente los costos operativos.
@@ -355,7 +358,7 @@ La justificación de la inversión en el proyecto "Plataforma Avanzada para la G
 - **Facilitación del Aprendizaje y Adopción de UML:** La validación en tiempo real y las reglas de modelado ayudarán a los usuarios a mejorar su comprensión de UML y aplicar buenas prácticas en la documentación de software.
 - **Fomento de la Colaboración en Tiempo Real:** La posibilidad de que varios usuarios editen diagramas simultáneamente permitirá una mejor comunicación y coordinación en equipos de desarrollo distribuidos.
 - **Mejora en la Toma de Decisiones:** La visualización estructurada de arquitecturas y flujos de software permitirá una mejor planificación y optimización de proyectos de desarrollo.
-### <a name="_toc194418410"></a>**5.1.2. Criterios de Inversión**
+### <a name="_toc196657233"></a>**5.1.2. Criterios de Inversión**
 Nuestros criterios de inversión se basan en los tres criterios presentados en base a que se necesitara el B/C para saber si hay beneficios, El VAN para saber si es aceptable el valor del proyecto y el TIR si es que se puede obtener retornar los gastos, ya que necesitamos recuperar de los costos invertidos al desarrollarse en el trayecto del tiempo. En ello, podemos utilizar a esos criterios debido a que queremos que el proyecto cumpla con todos los requisitos y con los valores económicos para ser aceptado	
 
 |**FLUJO DE CAJA**||||
@@ -375,80 +378,38 @@ Nuestros criterios de inversión se basan en los tres criterios presentados en b
 
 #### ***5.1.2.1. Relación Beneficio/Costo (B/C)***	
 
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.003.png)
 
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.003.png)
-
-
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.004.png)
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.004.png)
 
 *Fuente : Elaboración propia de la tabla*
 
 *Tabla 9 –  Tabla realizada en el Excel con los datos correspondiste del proyecto a realizar donde realizamos la formula de B/C y el Total de nuestro **B/C  = 2,008367282***
 
-
 #### ***5.1.2.2. Valor Actual Neto (VAN)***	
 
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.005.png)
 
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.006.png)
 
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.005.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.006.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.007.png)
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.007.png)
 
 
 *Fuente : Elaboración propia de la tabla*
 
 *Tabla 10 –  Tabla realizada en el Excel con los datos correspondiste del proyecto a realizar donde realizamos la formula de VNA y el Total de nuestro **VNA = S/45.,971.53***
 
-
-
 #### ***5.1.2.3. Tasa Interna de Retorno (TIR)***	
 
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.008.png)
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.008.png)
 
-
-
-
-
-
-
-
-![](media/Aspose.Words.fd31ce7a-be3a-44f9-a21d-6157aa049de3.009.png)
+![](media/Aspose.Words.5f515422-0ca7-4e75-98c5-a0d5e928bd1d.009.png)
 
 *Fuente : Elaboración propia de la tabla*
 
 *Tabla 11- Tabla realizada en el Excel con los datos correspondiste del proyecto a realizar donde realizamos la formula de TIR y el Total de nuestro **TIR = 40% , Lo que nos indica que el proyecto si es factible.***
 
-# <a name="_toc194418411"></a>**VI. Conclusiones**	
+# <a name="_toc196657234"></a>**VI. Conclusiones**	
 
 - El proyecto cuenta con los recursos técnicos necesarios para su desarrollo y operación, garantizando que se puedan cumplir los requisitos establecidos para la gestión eficiente de inventarios y la elaboración de informes técnicos.
 - La evaluación económica del proyecto indica una factibilidad adecuada, con un beneficio/costo (B/C) superior a 1, lo que demuestra que los ingresos proyectados superan los costos involucrados, haciendo el proyecto viable.
