@@ -2,7 +2,7 @@
 
 **Empresa:** Tech Solutions
 **Curso:** Patrones de Software
-**Docente:** Mag. Patrick Cuadrados
+**Docente:** Mag. Patrick Cuadros
 
 ## 📌 Integrantes:
 
