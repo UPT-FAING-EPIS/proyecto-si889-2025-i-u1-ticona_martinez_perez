@@ -117,6 +117,3 @@ Para contribuir:
 3. Sube tus cambios: `git commit -m 'Agregado X'` y `git push origin feature-nueva`.
 4. Abre un **pull request**.
 
-## 📩 Contacto
-
-Si tienes preguntas o sugerencias, contáctanos por GitHub o correo electrónico. 🎯
