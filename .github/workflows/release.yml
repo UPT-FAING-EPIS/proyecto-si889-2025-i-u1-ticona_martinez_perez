@@ -1,0 +1,51 @@
+name: Automated Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # Ejemplo: v1.0.0, v0.2.1
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate Release ZIP
+        run: |
+          zip -r release.zip . -x '*.git*' '*.github*'
+
+      - name: Create GitHub Release
+        id: create-release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: "🎉 Release ${{ github.ref_name }}"
+          body: |
+            ## 🔵 **Novedades**  
+            - ✅ Endpoint `/diagrams/` para generar diagramas desde JSON.  
+            - 🔐 Soporte para autenticación básica.  
+            - 📊 Mejoras en la validación de modelos.  
+
+            ## 📦 **Instalación**  
+            ```bash
+            pip install -r requirements.txt
+            uvicorn app.main:app --reload
+            ```
+
+            ## 📚 **Documentación**  
+            - **Local**: [http://localhost:8000/docs](http://localhost:8000/docs)  
+            - **Producción**: [Swagger Online](https://diagramauml.onrender.com/docs)  
+
+            ## ⬇️ **Assets**  
+            Archivos adjuntos generados automáticamente.  
+          prerelease: ${{ contains(github.ref_name, 'rc') || contains(github.ref_name, 'beta') }}  # Pre-release si el tag incluye 'rc' o 'beta'
+          files: |
+            release.zip
+
+      - name: Print Release URL
+        run: |
+            echo "✅ Release creado: ${{ steps.create-release.outputs.html_url }}"
